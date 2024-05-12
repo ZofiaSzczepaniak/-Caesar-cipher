@@ -10,4 +10,5 @@ Here, each letter in the plaintext is shifted three positions to the left in the
 
 ## Instructions: 
 First to use the program, one must install the Python compiler. To do so, enter the site and follow the given steps: https://code.visualstudio.com/
+
 Then to start the program you must give the: the word to encode or decode, the shift parameter, and specify that you want to encode or decode your word.
