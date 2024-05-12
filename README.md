@@ -4,6 +4,7 @@ The Caesar cipher is one of the simplest encryption techniques. The method invol
 For example, with a shift of 3:
 
 Plaintext: THE QUICK BROWN FOX
+
 Ciphertext: QEB NRFZH YOLTK CLU
 
 Here, each letter in the plaintext is shifted three positions to the left in the alphabet to produce the ciphertext. When decoding, you simply shift the letters back by the same number of positions.
